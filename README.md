@@ -1,7 +1,7 @@
 # KGanTyProject
 
 
-Working Website Title: Love Is Love, Even Under The Rainbow
+Working Website Title: "Love Is Love, Even Under The Rainbow"
 
 Description: 
 
