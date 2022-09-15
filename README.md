@@ -13,8 +13,8 @@ Outline of The Website:
   
   Webpage 3:
   
-  Webpage 4:
+  Webpage 4: The 4th webpage would feature some common misconceptions that people may have about the LGBTQ+ community (i.e. "sexuality is a choice", "bisexuality is just a phase") and elaborate on what the actual truths are. *insert design description here*
   
-  Webpage 5: 
+  Webpage 5: The 5th page would be about historical figures that were, at least from what we currently know, most likely a part of the LGBTQ+ community (i.e. Fredrick the Great, Achilles, Patroclus, Alan Turing). *insert design description here*  
   
 Initial Wireframe For The Homepage And The Two Web Pages: 
