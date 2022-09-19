@@ -1,6 +1,7 @@
 
 # KGanTyProject
 
+PROJECT PROPOSAL
 
 Working Website Title: "Everyone Is Welcome Under The Rainbow"
 
