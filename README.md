@@ -1,4 +1,4 @@
-[KGanTy - 1stQtrProposal.pdf](https://github.com/Aldrich-Joseph-Ty/KGanTyProject/files/9599235/KGanTy.-.1stQtrProposal.pdf)
+
 # KGanTyProject
 
 
