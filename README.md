@@ -21,3 +21,4 @@ Outline of The Website:
   Webpage 5: The 5th page would be about historical figures that were, at least from what we currently know, most likely a part of the LGBTQ+ community (i.e. Fredrick the Great, Achilles, Patroclus, Alan Turing, etc.). Like the homepage, there will be a colorful rainbow starting from the left side of the page and ending on the right. Underneath the rainbow would be the title "Historical Figures That Were Most Probably Part of the LGBTQ+ Community", along with a brief introduction. Below the introduction, each historical figure mentioned would be given their own portion of the page with their names, pictures, and descriptions. At the bottom of the page would be a link that leads back to the homepage as well as a link going back to the page on sexuality.
   
 Initial Wireframe For The Homepage And The Two Web Pages: 
+[KGanTy - 1stQtrProposal.pdf](https://github.com/Aldrich-Joseph-Ty/KGanTyProject/files/9599314/KGanTy.-.1stQtrProposal.pdf)
