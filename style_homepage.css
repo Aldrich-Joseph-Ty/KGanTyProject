@@ -52,19 +52,18 @@ h1 {
 }
 
 #box2 {
-  float:right;
+  float:left;
   width: 40%;
   padding: 20px;
 }
 
 #box3 {
-  clear:left;
+  float:right;
   width: 40%;
   padding: 20px;
 }
 
 #box4 {
-  clear: right;
   width: 40%;
   padding: 20px;
 }
