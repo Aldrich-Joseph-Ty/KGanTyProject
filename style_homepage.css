@@ -45,6 +45,12 @@ h1 {
   
 }
 
+h1, h3 {
+
+  font-family:Georgia;
+  
+}
+
 #box1 {
   float:left;
   width: 40%;
