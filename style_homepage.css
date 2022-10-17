@@ -51,6 +51,12 @@ h1, h3 {
   
 }
 
+p { 
+  
+  font-family:Helvetica;
+  
+}
+
 #box1 {
   float:left;
   width: 40%;
