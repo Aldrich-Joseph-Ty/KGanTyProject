@@ -15,7 +15,7 @@ body {
       
 }
 
-div.content {
+div.subpages {
 
   background-color: #ffffff;
 
@@ -29,13 +29,19 @@ div.content {
       
 }
 
-div.links {
+span.links {
 
   color: black; 
 
-  margin: 10px;
-
   padding: 5px;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  margin-left: 30%;
+
+  width: 40%;
       
 }
 
@@ -45,16 +51,6 @@ h1 {
   
 }
 
-h1, h2, h3 {
-
-  font-family:Georgia;
-  
+a {
+  text-decoration: none;
 }
-
-p { 
-  
-  font-family:Helvetica;
-  
-}
-  
-  
