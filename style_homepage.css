@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+
 body {
 
   background-color: #fdf1ec
@@ -6,12 +8,17 @@ body {
 
 #introduction {
 
-
-  padding: 10px;
+  padding: 20px;
 
   color: black; 
       
   text-align: center;
+  
+  background-color: #ffffff;
+
+  margin: 20px;
+
+  border: 3px outset #F0A8A8; 
       
 }
 
@@ -37,21 +44,22 @@ div.links {
 
   color: black; 
 
-  margin: 10px;
-
-  padding: 5px;
-  
   font-size: 0.75em;
+
+  text-align: left;
       
 }
 
 h1 {
 
-  color: black; text-align: center;
+  color: #F0A8A8; 
+  text-align: center;
+  font-family: 'Permanent Marker';
+  text-shadow: 2px 2px #874e4e;
   
 }
 
-h1, h3 {
+h3 {
 
   font-family:Georgia;
   
@@ -90,5 +98,14 @@ p {
 
 div > div {
   text-align: center;
+}
+
+a {
+  color: #cc9c16;
+}
+
+#copyright {
+  text-align: right;
+  font-size: 0.75em;
 }
     
