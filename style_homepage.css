@@ -2,7 +2,7 @@
 
 body {
 
-  background-color: #fdf1ec
+  background-color: #fdf5f2;
   
 }
 
@@ -13,18 +13,16 @@ body {
   color: black; 
       
   text-align: center;
-  
-  background-color: #ffffff;
+
+  background-color: #cbecec;
 
   margin: 20px;
-
-  border: 3px outset #F0A8A8; 
       
 }
 
-div.subpages {
+.subpages {
 
-  background-color: #ffffff;
+  background-color: white;
 
   color: black; 
 
@@ -32,11 +30,11 @@ div.subpages {
 
   padding: 15px;
 
-  border: 3px outset #F0A8A8; 
-
   position: relative;
 
   overflow: auto;
+
+  z-index: 0;
       
 }
 
@@ -53,10 +51,18 @@ div.links {
 h1 {
 
   color: #F0A8A8; 
-  text-align: center;
+  text-align: left;
   font-family: 'Permanent Marker';
   text-shadow: 2px 2px #874e4e;
+  display: inline;
   
+}
+
+nav > h3 {
+  display: inline;
+  float: right;
+  padding: 5px;
+  margin: 10px;
 }
 
 h3 {
@@ -69,6 +75,10 @@ p {
   
   font-family:Helvetica;
   
+}
+
+.video {
+  text-align: center;
 }
 
 #box1 {
@@ -96,8 +106,22 @@ p {
   padding: 20px;
 }
 
-div > div {
+section > section {
   text-align: center;
+}
+
+#title:link, #title:hover, #title:visited, #title:active {
+  color: #F0A8A8; 
+  text-decoration: none;
+}
+
+.head:link, .head:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.head:hover, .head:active {
+  color: #F0A8A8;
 }
 
 a {
@@ -107,5 +131,25 @@ a {
 #copyright {
   text-align: right;
   font-size: 0.75em;
+}
+
+#source {
+  text-align: center;
+  font-size: 0.75em;
+}
+
+heading {
+  background-color: white;
+  position: fixed;
+  top:0;
+  left:0;
+  padding: 10px;
+  margin: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+section {
+  display: block;
 }
     
