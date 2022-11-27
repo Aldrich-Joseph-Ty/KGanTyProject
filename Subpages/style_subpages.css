@@ -14,15 +14,13 @@ body {
       
   text-align: center;
   
-  background-color: #ffffff;
+  background-color: #cbecec;
 
   margin: 20px;
-
-  border: 3px outset #F0A8A8; 
       
 }
 
-div.subpages {
+.subpages {
 
   background-color: #ffffff;
 
@@ -30,37 +28,40 @@ div.subpages {
 
   margin: 20px;
 
-  padding: 15px;
-
-  border: 3px outset #F0A8A8;
-      
-}
-
-div.links {
-
-  padding: 5px;
-  
-  margin: 20px;
-  
-  text-align: center;
-
-  background-color: #ffffff;
-
-  color: black; 
-
-  border: 3px outset #F0A8A8;
-
-  overflow: auto; 
+  padding: 20px;
       
 }
 
 h1 {
 
   color: #F0A8A8; 
-  text-align: center;
+  text-align: left;
   font-family: 'Permanent Marker';
   text-shadow: 2px 2px #874e4e;
+  display: inline;
   
+}
+
+nav > h3 {
+  display: inline;
+  float: right;
+  padding: 5px;
+  margin: 10px;
+  font-family: georgia; 
+}
+
+#title:link, #title:hover, #title:visited, #title:active {
+  color: #F0A8A8; 
+  text-decoration: none;
+}
+
+.head:link, .head:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.head:hover, .head:active {
+  color: #F0A8A8;
 }
 
 a {
@@ -68,9 +69,30 @@ a {
   color: #cc9c16;
 }
 
+heading {
+  background-color: white;
+  position: fixed;
+  top:0;
+  left:0;
+  padding: 10px;
+  margin: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+p { 
+  
+  font-family:Helvetica;
+  
+}
+
 .nonbinary {
   position: relative;
   width: 100%;
+}
+
+.subtitle {
+  text-align: center;
 }
 
 div.subnb {
@@ -82,31 +104,4 @@ div.subnb {
 
 .gender {
   clear: left;
-}
-
-#home {
-  clear: left;
-}
-
-#link1 {
-  float: left;
-  margin: 5px;
-  width:32%;
-}
-
-#link2 {
-  float: left;
-  margin: 5px;
-  width: 32%;
-}
-
-#link3 {
-  float: left;
-  margin: 5px;
-  width: 32%; 
-}
-
-#copyright {
-  text-align: right;
-  font-size: 0.75em;
 }
